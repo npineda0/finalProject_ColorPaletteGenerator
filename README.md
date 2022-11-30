@@ -1,0 +1,2 @@
+# finalProject_ColorPaletteGenerator
+Created with CodeSandbox
