@@ -1,34 +1,30 @@
 [
   {
-    "name": "null",
+    "name": "hello",
     "options": [
       { "id": 0, "lockColor": "lock" },
-      { "id": 1, "saveColor": "save" },
-      { "id": 2, "copyColor": "copy" }
+      { "id": 1, "saveColor": "save" }
     ]
   },
   {
-    "name": "null",
+    "name": "hi",
     "options": [
       { "id": 0, "lockColor": "lock" },
-      { "id": 1, "saveColor": "save" },
-      { "id": 2, "copyColor": "copy" }
+      { "id": 1, "saveColor": "save" }
     ]
   },
   {
-    "name": "null",
+    "name": "hey",
     "options": [
       { "id": 0, "lockColor": "lock" },
-      { "id": 1, "saveColor": "save" },
-      { "id": 2, "copyColor": "copy" }
+      { "id": 1, "saveColor": "save" }
     ]
   },
   {
-    "name": "null",
+    "name": "whats up",
     "options": [
       { "id": 0, "lockColor": "lock" },
-      { "id": 1, "saveColor": "save" },
-      { "id": 2, "copyColor": "copy" }
+      { "id": 1, "saveColor": "save" }
     ]
   }
 ]
